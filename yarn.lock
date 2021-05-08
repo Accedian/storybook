@@ -1824,11 +1824,11 @@
   integrity sha512-55Mo2b5WtIT0l653y6ocu7C6QzznbasEnlixGzA26WK8Fj81wuEY3xf5N5bNAvDVfrwTLIPTXdEUGgPdrPLszw==
   dependencies:
     mkdirp "^0.5.1"
+
 "@ngrx/store@^6.1.2":
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-6.1.2.tgz#20fb5ab4d79571b804a348093aa11a167fe2946f"
   integrity sha512-W9MbXrwhIRmN1BlINF9BT+rHR046e1HNk7GqykcDJrK9wW74PJW3aE5iuPb2sTPipBMjPHsXzc73E4U/+OTAyw==
-
 
 "@ngtools/webpack@7.0.3":
   version "7.0.3"
@@ -21945,9 +21945,9 @@ typescript@^3.1.6:
   integrity sha512-tDMYfVtvpb96msS1lDX9MEdHrW4yOuZ4Kdc4Him9oU796XldPYF/t2+uKoX0BBa0hXXwDlqYQbXY5Rzjzc5hBA==
 
 ua-parser-js@^0.7.18:
-  version "0.7.18"
-  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.18.tgz#a7bfd92f56edfb117083b69e31d2aa8882d4b1ed"
-  integrity sha512-LtzwHlVHwFGTptfNSgezHp7WUlwiqb0gA9AALRbKaERfxwJoiX0A73QbTToxteIAuIaFshhgIZfqK8s7clqgnA==
+  version "0.7.28"
+  resolved "https://registry.yarnpkg.com/ua-parser-js/-/ua-parser-js-0.7.28.tgz#8ba04e653f35ce210239c64661685bf9121dec31"
+  integrity sha512-6Gurc1n//gjp9eQNXjD9O3M/sMwVtN5S8Lv9bvOYBfKfDNiIIhqiyi01vMBO45u4zkDE420w/e0se7Vs+sIg+g==
 
 uc.micro@^1.0.1, uc.micro@^1.0.5:
   version "1.0.5"
