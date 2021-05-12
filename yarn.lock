@@ -1824,11 +1824,11 @@
   integrity sha512-55Mo2b5WtIT0l653y6ocu7C6QzznbasEnlixGzA26WK8Fj81wuEY3xf5N5bNAvDVfrwTLIPTXdEUGgPdrPLszw==
   dependencies:
     mkdirp "^0.5.1"
+
 "@ngrx/store@^6.1.2":
   version "6.1.2"
   resolved "https://registry.yarnpkg.com/@ngrx/store/-/store-6.1.2.tgz#20fb5ab4d79571b804a348093aa11a167fe2946f"
   integrity sha512-W9MbXrwhIRmN1BlINF9BT+rHR046e1HNk7GqykcDJrK9wW74PJW3aE5iuPb2sTPipBMjPHsXzc73E4U/+OTAyw==
-
 
 "@ngtools/webpack@7.0.3":
   version "7.0.3"
@@ -6303,9 +6303,9 @@ codemirror-graphql@^0.7.1:
     graphql-language-service-parser "^1.2.2"
 
 codemirror@^5.26.0:
-  version "5.40.2"
-  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.40.2.tgz#f4a41fee2d84e679543591b3680af259d903330b"
-  integrity sha512-yoWuvEiD3v5vTwdoMc/wu/Ld6dh9K/yEiEBTKOPGM+/pN0gTAqFNtrLHv1IJ1UJvzFpNRvMi92XCi3+8/iIaEw==
+  version "5.61.0"
+  resolved "https://registry.yarnpkg.com/codemirror/-/codemirror-5.61.0.tgz#318e5b034a707207948b92ffc2862195e8fdb08e"
+  integrity sha512-D3wYH90tYY1BsKlUe0oNj2JAhQ9TepkD51auk3N7q+4uz7A/cgJ5JsWHreT0PqieW1QhOuqxQ2reCXV1YXzecg==
 
 collapse-white-space@^1.0.2:
   version "1.0.4"
